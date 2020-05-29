@@ -9,11 +9,11 @@ a {
 }
 
 a:link {
-  color: #627D98;
+  color: #627d98;
 }
 
 a:visited {
-  color: #BCCCDC;
+  color: #bcccdc;
 }
 /*
 a:focus {
@@ -33,14 +33,23 @@ a:active {
   width: 30%;
   float: left;
 }
+
+.intro {
+  background-color: #102a43;
+  overflow: auto;
+}
 .intro h1 {
-  color: #627D98;
+  color: #627d98;
   border-bottom: solid thin gray;
 }
 
 .intro img {
   float: right;
 }
+.projects {
+  clear: both;
+}
+
 
 .about_me {
   clear: both;
