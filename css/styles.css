@@ -15,42 +15,49 @@ a:link {
 a:visited {
   color: #bcccdc;
 }
-/*
-a:focus {
-
-}
-
-a:hover {
-
-}
-
-a:active {
-
-}
-*/
-
-.column {
-  width: 30%;
-  float: left;
-}
 
 .intro {
   background-color: #102a43;
   overflow: auto;
+  margin: 5px 5px 0px 5px;
 }
+
 .intro h1 {
   color: #627d98;
   border-bottom: solid thin gray;
+  margin-left: 5px;
+  font-size: 3em;
 }
 
 .intro img {
   float: right;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
+
+.intro h2, p{
+  margin-left: 20px;
+}
+
+.intro span {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .projects {
   clear: both;
 }
 
+.projects h2 {
+  text-align: center;
+}
+
+.column {
+  width: 30%;
+  margin-left: 3%;
+  float: left;
+}
 
 .about_me {
   clear: both;
+  margin-left: 3%;
 }
