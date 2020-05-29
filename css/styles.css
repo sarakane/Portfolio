@@ -1,5 +1,5 @@
 body{
-  background-color: #121212;
+  background-color: #1b262c;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -8,23 +8,31 @@ a {
   text-decoration: none;
 }
 
+h2 {
+  color: white;
+}
+
+h3{
+  color: #3282b8;
+}
+
 a:link {
-  color: #627d98;
+  color: #0f4c75;
 }
 
 a:visited {
-  color: #bcccdc;
+  color: #bbe1fa;
 }
 
 .intro {
-  background-color: #102a43;
+  background-color: #0f4c75;
   overflow: auto;
   margin: 5px 5px 0px 5px;
 }
 
 .intro h1 {
-  color: #627d98;
-  border-bottom: solid thin gray;
+  color: #bbe1fa;
+  border-bottom: solid thin #1b262c;
   margin-left: 5px;
   font-size: 3em;
 }
@@ -45,6 +53,10 @@ a:visited {
 
 .projects {
   clear: both;
+  background-color: #3282b8;
+  overflow: auto;
+  margin: 3%;
+  padding: 2%
 }
 
 .projects h2 {
@@ -60,4 +72,8 @@ a:visited {
 .about_me {
   clear: both;
   margin-left: 3%;
+}
+
+.about_me h2 {
+  color: #0f4c75;
 }

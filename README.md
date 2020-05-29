@@ -6,7 +6,8 @@
 
 ## Description
 
-_This is a portfolio webpage for my work at Epicodus_
+_This is a portfolio webpage for my work at Epicodus_  
+Check out the GitHub Pages site at: sarakane.github.io/portfolio
 
 ## Setup/Installation Requirements
 
