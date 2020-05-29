@@ -4,7 +4,30 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
 
+a:link {
+  color: #627D98;
+}
+
+a:visited {
+  color: #BCCCDC;
+}
+/*
+a:focus {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+*/
 .intro h1 {
   color: #627D98;
   border-bottom: solid thin gray;
