@@ -28,6 +28,11 @@ a:active {
 
 }
 */
+
+.column {
+  width: 30%;
+  float: left;
+}
 .intro h1 {
   color: #627D98;
   border-bottom: solid thin gray;
@@ -35,4 +40,8 @@ a:active {
 
 .intro img {
   float: right;
+}
+
+.about_me {
+  clear: both;
 }
