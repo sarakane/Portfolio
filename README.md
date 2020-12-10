@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio webpage for my work at Epicodus_  
+_This is a portfolio webpage for my work of my first week at Epicodus_  
 Check out the GitHub Pages site at: https://sarakane.github.io/Portfolio/
 
 ## Setup/Installation Requirements
@@ -18,12 +18,7 @@ Check out the GitHub Pages site at: https://sarakane.github.io/Portfolio/
 
 _No known issues_
 
-## Support and contact details
-
-_For questions, comments, or concerns please contact me at kane.sarak@gmail.com._
-
 ## Technologies Used
-
 _Created in Visual Studio Code_  
 _HTML_  
 _CSS_  
